@@ -78,7 +78,7 @@
 <br/>  
 
 <div align="center">
-<p><a href="https://github.com/MrHyperGaming"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KabirJaipal&amp;layout=compact" alt="Top Langs"></a></p></div>  
+<p><a href="https://github.com/MrHyperGaming"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHyperGaming&amp;layout=compact" alt="Top Langs"></a></p></div>  
   
 
 ![](https://avatars.githubusercontent.com/u/73753258?v=4)
