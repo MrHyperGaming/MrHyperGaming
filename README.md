@@ -81,7 +81,7 @@
 <p><a href="https://github.com/MrHyperGaming"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHyperGaming&amp;layout=compact" alt="Top Langs"></a></p></div>  
   
 
-![](https://telegra.ph/file/0014269f6e5637f500e39.jpg)
+![](https://avatars.githubusercontent.com/u/86052937?s=400)
 
 ## [**DISCORD SUPPORT SERVER INVITE**](https://discord.com/invite/fU4YkC7AKX)
 ## [**Youtube Channel Link**](https://www.youtube.com/channel/UC16kiq9w4S3bxPZ7ykVq-PA)
