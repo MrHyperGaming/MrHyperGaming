@@ -60,7 +60,7 @@
 <a href="https://github.com/MrHyperGaming" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/channel/UC16kiq9w4S3bxPZ7ykVq-PA" target="_blank">
+<a href="https://xdhyper.github.io" target="_blank">
 <img src=https://img.shields.io/badge/Website-%2308090A.svg?&style=for-the-badge&logo=Website&logoColor=white alt=Youtube style="margin-bottom: 5px;" />
 </a>
 <a href="https://discord.com/invite/fu4YkC7AKX" target="_blank">
@@ -83,7 +83,7 @@
 
 ![](https://avatars.githubusercontent.com/u/73753258?v=4)
 
-## [**DISCORD SUPPORT SERVER INVITE**](https://discord.com/invite/fu4YkC7AKX)
+## [**DISCORD SUPPORT SERVER INVITE**](https://discord.com/invite/fU4YkC7AKX)
 ## [**Youtube Channel Link**](https://www.youtube.com/channel/UC16kiq9w4S3bxPZ7ykVq-PA)
 
 # SUPPORT ME
