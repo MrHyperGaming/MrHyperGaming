@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Kabir Singh aka Tech Boy Gaming, </div>  
+### <div align="center">I'm Ruhaim aka Mr Hyper Gaming, </div>  
   
 
 - 🔭 I’m currently Coding AN Music Bot and Multi Purpose Bot
@@ -57,13 +57,13 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/KabirJaipal" target="_blank">
+<a href="https://github.com/MrHyperGaming" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/channel/UCINCfgiBYCykOemiuVhqtIQ" target="_blank">
+<a href="https://www.youtube.com/channel/UC16kiq9w4S3bxPZ7ykVq-PA" target="_blank">
 <img src=https://img.shields.io/badge/Website-%2308090A.svg?&style=for-the-badge&logo=Website&logoColor=white alt=Youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://discord.com/invite/tVWrU5PWZV" target="_blank">
+<a href="https://discord.com/invite/fu4YkC7AKX" target="_blank">
 <img src=https://img.shields.io/badge/DiscordServer-%23F28032.svg?&style=for-the-badge&logo=DiscordServer&logoColor=white alt=DiscordServer style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -73,18 +73,18 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KabirJaipal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MrHyperGaming&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 <div align="center">
-<p><a href="https://github.com/KabirJaipal"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KabirJaipal&amp;layout=compact" alt="Top Langs"></a></p></div>  
+<p><a href="https://github.com/MrHyperGaming"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KabirJaipal&amp;layout=compact" alt="Top Langs"></a></p></div>  
   
 
 ![](https://avatars.githubusercontent.com/u/73753258?v=4)
 
-## [**DISCORD SUPPORT SERVER INVITE**](https://discord.com/invite/tVWrU5PWZV)
-## [**Youtube Channel Link**](https://www.youtube.com/channel/UCINCfgiBYCykOemiuVhqtIQ)
+## [**DISCORD SUPPORT SERVER INVITE**](https://discord.com/invite/fu4YkC7AKX)
+## [**Youtube Channel Link**](https://www.youtube.com/channel/UC16kiq9w4S3bxPZ7ykVq-PA)
 
 # SUPPORT ME
 
